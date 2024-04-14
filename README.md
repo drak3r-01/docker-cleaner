@@ -1,9 +1,26 @@
 # Docker Cleaner
 
+<div align="center">
+
+```markdown
+ ______                   __                          ______  __                                      
+|_   _ `.                [  |  _                    .' ___  |[  |                                     
+  | | `. \  .--.   .---.  | | / ] .---.  _ .--.    / .'   \_| | | .---.  ,--.   _ .--.  .---.  _ .--. 
+  | |  | |/ .'`\ \/ /'`\] | '' < / /__\\[ `/'`\]   | |        | |/ /__\\`'_\ : [ `.-. |/ /__\\[ `/'`\]
+ _| |_.' /| \__. || \__.  | |`\ \| \__., | |       \ `.___.'\ | || \__.,// | |, | | | || \__., | |    
+|______.'  '.__.' '.___.'[__|  \_]'.__.'[___]       `.____ .'[___]'.__.'\'-;__/[___||__]'.__.'[___]   
+```
+
+<img src="logo.jpg" alt="Docker Cleaner" width="400" height="400">
+
+*Generate by [![DALL-E 3](https://img.shields.io/badge/DALL--E%203-OpenAI-%233171E3)](https://openai.com)
+
 ![CMD](https://img.shields.io/badge/language-CMD-blue?style=flat-square&logo=windows)
 ![PowerShell](https://img.shields.io/badge/language-PowerShell-blue?style=flat-square&logo=powershell)
 ![Bash](https://img.shields.io/badge/language-Bash-blue?style=flat-square&logo=gnu-bash)
 ![Docker](https://img.shields.io/badge/tool-Docker-blue?style=flat-square&logo=docker)
+
+</div>
 
 Docker Cleaner is a set of scripts for cleaning up Docker resources on your local machine. It includes scripts for stopping and removing containers, images, and volumes.
 
